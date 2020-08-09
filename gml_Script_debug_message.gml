@@ -1,0 +1,5 @@
+debug_txt = file_text_open_append((working_directory + "debug.txt"))
+global.debug_output = string_insert((argument0 + "#"), global.debug_output, 0)
+file_text_write_string(debug_txt, argument0)
+file_text_writeln(debug_txt)
+file_text_close(debug_txt)
