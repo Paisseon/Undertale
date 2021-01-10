@@ -1,2 +1,3 @@
 # Undertale
-You're gonna have a bad time.
+
+The only free Undertale port for iOS!
